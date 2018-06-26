@@ -1,3 +1,3 @@
 # HSS
-The first repository
+The first repository.
 I'm feel not good.
